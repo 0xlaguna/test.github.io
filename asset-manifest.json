@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df987d48.chunk.css",
+    "main.js": "/static/js/main.c221f766.chunk.js",
+    "main.js.map": "/static/js/main.c221f766.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.af398c66.js",
+    "runtime~main.js.map": "/static/js/runtime~main.af398c66.js.map",
+    "static/js/2.e3d677df.chunk.js": "/static/js/2.e3d677df.chunk.js",
+    "static/js/2.e3d677df.chunk.js.map": "/static/js/2.e3d677df.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b4402a5769a5c8637579c5e0ced6bca1.js": "/precache-manifest.b4402a5769a5c8637579c5e0ced6bca1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.df987d48.chunk.css.map": "/static/css/main.df987d48.chunk.css.map",
+    "static/media/index.css": "/static/media/Industry-Book.a54d01c7.woff",
+    "static/media/mejia1cc.png": "/static/media/mejia1cc.92e16888.png",
+    "static/media/serial.gif": "/static/media/serial.63bfa20b.gif",
+    "static/media/uni1.png": "/static/media/uni1.626d9415.png"
+  }
+}
